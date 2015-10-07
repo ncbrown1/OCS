@@ -1,0 +1,295 @@
+1000	WAGES - ACADEMIC		1000 - 1999 PAYROLL
+1015	PERQUISITE-ACADEMIC		1000 - 1999 PAYROLL
+1091	1991-92 FACULTY MERITS AND PRO		1000 - 1999 PAYROLL
+1100	WAGES - NON-ACADEMIC		1000 - 1999 PAYROLL
+1115	PERQUISITE-STAFF		1000 - 1999 PAYROLL
+1150	SRDP AWARD	SRDP--Staff Recognition & Development Program	1000 - 1999 PAYROLL
+1160	STAFF RECOGNITION&DEVEL PRGM		1000 - 1999 PAYROLL
+1180	SRDP AWARD FUNDING	SRDP--Staff Recognition & Development Program	1000 - 1999 PAYROLL
+1200	SABBATICAL LEAVE-IN RESIDENCE		1000 - 1999 PAYROLL
+1300	SABBATICAL LEAVE-NOT IN RESID		1000 - 1999 PAYROLL
+1400	RETIREMENT BENEFITS ALLOWANCE		1000 - 1999 PAYROLL
+1500	WAGES - NON-ACAD NO COMP INS		1000 - 1999 PAYROLL
+1610	TERM BEN-SALARIES-VOLUNTARY		1000 - 1999 PAYROLL
+1620	TERM BEN-SALARIES-INVOLUNTARY		1000 - 1999 PAYROLL
+1700	WAGES EARNED NOT PD PRE DEATH		1000 - 1999 PAYROLL
+1800	ACCRUED VACATION		1000 - 1999 PAYROLL
+1940	SALARY ACCRUAL		1000 - 1999 PAYROLL
+1950	VACATION ACCRUAL	Used by Accounting during year-end closing process	1000 - 1999 PAYROLL
+1960	COMPENSATORY TIME ACCRUAL	Used by Accounting during year-end closing process	1000 - 1999 PAYROLL
+1970	SMSPP ACCRUAL	Used by Accounting during year-end closing process	1000 - 1999 PAYROLL
+1980	SALARY AND WAGES-CAPITAL		1000 - 1999 PAYROLL
+1982	ELIMINATION-SALARIES & WAGES		1000 - 1999 PAYROLL
+2000	TRAVEL	Use for all travel expenses (In State and Out Of State) except for conference and registration fees.	2000 - 2999 TRAVEL
+2005	SRDP DEVELOPMENT AWARD	SRDP--Staff Recognition & Development Program	2000 - 2999 TRAVEL
+2010	TRAVEL -- USER DEFINED	Use 2000 for all travel, 2100 for conference and registration fees.	2000 - 2999 TRAVEL
+2011	TRAVEL -- USER DEFINED	Use 2000 for all travel, 2100 for conference and registration fees.	2000 - 2999 TRAVEL
+2015	TRAVEL -- PARTICIPANT SUPPORT	Must conform to Participant Support rules--see object code 7215 (charges excluded from overhead)	2000 - 2999 TRAVEL
+2024	RECRUITING TRAVEL	Athletics	2000 - 2999 TRAVEL
+2024	TEAM TRAVEL	Athletics	2000 - 2999 TRAVEL
+2031	BAND/CHEER TRAVEL	Athletics	2000 - 2999 TRAVEL
+2100	TRAVEL -- CONFERENCE FEES	Includes fees for symposia, workshops, societal meetings, retreats	2000 - 2999 TRAVEL
+2300	UNIVERSITY GARAGE CHARGES	Transportation Services recharges only.	2000 - 2999 TRAVEL
+2700	REMOVAL & MOVING EXPENSE	Also use for moving expenses covered by Purchase Order.	2000 - 2999 TRAVEL
+2701	REMOVAL EXPENSE-USER DEFINED	Use 2000 for all travel, 2100 for conference and registration fees.	2000 - 2999 TRAVEL
+2900	TRAVEL -- USER DEFINED	Use 2000 for all travel, 2100 for conference and registration fees.	2000 - 2999 TRAVEL
+2901	TRAVEL -- USER DEFINED	Use 2000 for all travel, 2100 for conference and registration fees.	2000 - 2999 TRAVEL
+2902	TRAVEL -- USER DEFINED	Use 2000 for all travel, 2100 for conference and registration fees.	2000 - 2999 TRAVEL
+2910	TRAVEL -- USER DEFINED	Use 2000 for all travel, 2100 for conference and registration fees.	2000 - 2999 TRAVEL
+2911	TRAVEL -- USER DEFINED	Use 2000 for all travel, 2100 for conference and registration fees.	2000 - 2999 TRAVEL
+3000	FREIGHT	Freight and shipping charges paid by campus - normally outgoing shipping. Should not be used for freight on inventorial items - use 9000 - 9999 series	3000 - 3999 FREIGHT, INDIRECT COST, RECHARGES
+3700	UNEX ADMIN EXP	University Extension administrative expense - indirect cost recharge	3000 - 3999 FREIGHT, INDIRECT COST, RECHARGES
+3710	ISC ADMIN ALLOCATION		3000 - 3999 FREIGHT, INDIRECT COST, RECHARGES
+3730	CAMPUS GIFT SUPPORT		3000 - 3999 FREIGHT, INDIRECT COST, RECHARGES
+3740	CAMPUS SUPPORT		3000 - 3999 FREIGHT, INDIRECT COST, RECHARGES
+3800	OVERHEAD-CONTRACT&GRANT	Indirect cost recovery. Accounting use only.	3000 - 3999 FREIGHT, INDIRECT COST, RECHARGES
+3835	OVERHEAD-CAMPUS SUPPORT		3000 - 3999 FREIGHT, INDIRECT COST, RECHARGES
+3850	ELIMINATION NON-REPORT EXPENS	ACCOUNTING USE ONLY	3000 - 3999 FREIGHT, INDIRECT COST, RECHARGES
+3900	RECHARGES	Only for credits to the accounts of recharging units - used with sub 9 only.	3000 - 3999 FREIGHT, INDIRECT COST, RECHARGES
+3910	BANK FEE REIMBURSEMENT/WIRES	ACCOUNTING USE ONLY	3000 - 3999 FREIGHT, INDIRECT COST, RECHARGES
+3915	SPECIAL HANDLING FEES	ACCOUNTING USE ONLY	3000 - 3999 FREIGHT, INDIRECT COST, RECHARGES
+3920	WEST CAMPUS RENTAL REIMBURSE		3000 - 3999 FREIGHT, INDIRECT COST, RECHARGES
+3995	ADMIN OH-RECHGS TO OTHER DEPTS	Non state-funded administrative support from auxiliary units.	3000 - 3999 FREIGHT, INDIRECT COST, RECHARGES
+4100	TELEPHONE CHARGES-VARIOUS	Typically Facilities & Administrative cost	4000 - 4999 COMMUNICATION, POSTAGE, DELIVERY
+4101	FAX CHARGES		4000 - 4999 COMMUNICATION, POSTAGE, DELIVERY
+4110	PHONE SERVICES	Typically Facilities & Administrative cost	4000 - 4999 COMMUNICATION, POSTAGE, DELIVERY
+4111	TWO WAY RADIO MAINTENANCE	Typically Facilities & Administrative cost	4000 - 4999 COMMUNICATION, POSTAGE, DELIVERY
+4120	LOCAL CALLS	Typically Facilities & Administrative cost	4000 - 4999 COMMUNICATION, POSTAGE, DELIVERY
+4125	TOLL CALLS		4000 - 4999 COMMUNICATION, POSTAGE, DELIVERY
+4130	PHONE ONE-TIME CHARGES	Typically Facilities & Administrative cost	4000 - 4999 COMMUNICATION, POSTAGE, DELIVERY
+4135	OTHER PHONE CHARGES	Typically Facilities & Administrative cost	4000 - 4999 COMMUNICATION, POSTAGE, DELIVERY
+4140	VOICE MAIL	Typically Facilities & Administrative cost	4000 - 4999 COMMUNICATION, POSTAGE, DELIVERY
+4145	OTHER DATA CHARGES	Typically Facilities & Administrative cost	4000 - 4999 COMMUNICATION, POSTAGE, DELIVERY
+4150	CELLULAR TELEPHONE CHARGES	Typically Facilities & Administrative cost	4000 - 4999 COMMUNICATION, POSTAGE, DELIVERY
+4155	CABLE TELEVISION	Typically Facilities & Administrative cost	4000 - 4999 COMMUNICATION, POSTAGE, DELIVERY
+4160	TECHNICIAN LABOR	Typically Facilities & Administrative cost	4000 - 4999 COMMUNICATION, POSTAGE, DELIVERY
+4165	MATERIALS	Typically Facilities & Administrative cost	4000 - 4999 COMMUNICATION, POSTAGE, DELIVERY
+4170	RENTALS	Typically Facilities & Administrative cost	4000 - 4999 COMMUNICATION, POSTAGE, DELIVERY
+4180	VENDOR MAINTENANCE	Typically Facilities & Administrative cost	4000 - 4999 COMMUNICATION, POSTAGE, DELIVERY
+4190	OVERHEAD CHARGES	Typically Facilities & Administrative cost	4000 - 4999 COMMUNICATION, POSTAGE, DELIVERY
+4195	TAXES-SURCHARGES	Typically Facilities & Administrative cost	4000 - 4999 COMMUNICATION, POSTAGE, DELIVERY
+4199	LATE CHARGES	Typically Facilities & Administrative cost	4000 - 4999 COMMUNICATION, POSTAGE, DELIVERY
+4400	FIRST CLASS MAIL	Typically Facilities & Administrative cost	4000 - 4999 COMMUNICATION, POSTAGE, DELIVERY
+4410	BUSINESS REPLY	Typically Facilities & Administrative cost	4000 - 4999 COMMUNICATION, POSTAGE, DELIVERY
+4420	POSTAGE DUE	Typically Facilities & Administrative cost	4000 - 4999 COMMUNICATION, POSTAGE, DELIVERY
+4430	STAMPS	Typically Facilities & Administrative cost	4000 - 4999 COMMUNICATION, POSTAGE, DELIVERY
+4440	FOREIGN MAIL	Typically Facilities & Administrative cost	4000 - 4999 COMMUNICATION, POSTAGE, DELIVERY
+4450	FED-EX		4000 - 4999 COMMUNICATION, POSTAGE, DELIVERY
+4460	UPS		4000 - 4999 COMMUNICATION, POSTAGE, DELIVERY
+4470	OTHER FREIGHT		4000 - 4999 COMMUNICATION, POSTAGE, DELIVERY
+4475	PARCELS	Typically Facilities & Administrative cost	4000 - 4999 COMMUNICATION, POSTAGE, DELIVERY
+4480	BULK MAIL	Typically Facilities & Administrative cost	4000 - 4999 COMMUNICATION, POSTAGE, DELIVERY
+4490	MAIL SERVICES-MISC	Typically Facilities & Administrative cost	4000 - 4999 COMMUNICATION, POSTAGE, DELIVERY
+5000	RENTAL OF SPACE-INTERDEPT	Recharges for space or facilities on campus (UCEN, Cliff House, etc.)	5000 - 5999 RENTS, UTILITIES
+5100	RENTAL OF SPACE	Rental and lease of space for facilities off-campus - the cost of renting or (charges excluded from overhead) leasing and maintaining off-campus facilities. Does not apply to room rental for special events, conference/workshop rentals, cylinder rentals or hotel room rentals. See 5150 and 5300	5000 - 5999 RENTS, UTILITIES
+5150	RENTAL FOR EVENTS/OFF CAMPUS	Classroom rental, conference rooms	5000 - 5999 RENTS, UTILITIES
+5200	UTILITY SERVICES-FM RECHARGE		5000 - 5999 RENTS, UTILITIES
+5210	ELECTRICITY-UTILITIES PURCHASE		5000 - 5999 RENTS, UTILITIES
+5220	WATER & SEWER-UTIL PURCHASE		5000 - 5999 RENTS, UTILITIES
+5230	NATURAL GAS-UTILITIES PURCHASE		5000 - 5999 RENTS, UTILITIES
+5250	OIL - UTILITIES PURCHASE		5000 - 5999 RENTS, UTILITIES
+5260	PROPANE/BUTANE-UTIL PURCHASE		5000 - 5999 RENTS, UTILITIES
+5270-79	USER DEFINED-UTIL PURCHASE	Used by Housing & Residential Services	5000 - 5999 RENTS, UTILITIES
+5300	RENTAL OF EQUIPMENT-OTHER	From outside vendors. No purchase option. See 5400, 8080	5000 - 5999 RENTS, UTILITIES
+5301-04	USER DEFINED - EQUIPMENT RENTALS	Same as 5300. May be used to categorize costs of this type.	5000 - 5999 RENTS, UTILITIES
+5305	RENTAL OF COPY EQUIPMENT		5000 - 5999 RENTS, UTILITIES
+5310	LEASE W/PURCHASE OPTION-EQUIP	Cancelable leases with purchase options	5000 - 5999 RENTS, UTILITIES
+5320	SOFTWARE RENTAL/SITE LICENSES	For general campus use.	5000 - 5999 RENTS, UTILITIES
+5322	COMPUTER CTR-SOFTWARE RENTAL	Site licenses. Computer Center use only.	5000 - 5999 RENTS, UTILITIES
+5331	USER DEFINED - RENTALS		5000 - 5999 RENTS, UTILITIES
+5400	RENTAL OF EQUIP-COMPUTER	From outside vendors. No purchase option. See 5300	5000 - 5999 RENTS, UTILITIES
+5410	LEASE W/PURCHASE OPTION-COMPUT	Cancelable computer leases with purchase options	5000 - 5999 RENTS, UTILITIES
+5500	RENTAL OF EQUIP-INTERDEPT	On campus - interdepartmental recharge only.	5000 - 5999 RENTS, UTILITIES
+5505	TRANSFER COPY COST-INTERDEPT	On campus - interdepartmental recharge only -- Typically Facilities & Administrative cost	5000 - 5999 RENTS, UTILITIES
+5600	CAPITAL LEASE PYMT-OTHER		5000 - 5999 RENTS, UTILITIES
+5603	CAPITAL LEASE OTHER-PRINCIPAL		5000 - 5999 RENTS, UTILITIES
+5604	CAPITAL LEASE OTHER-INTEREST		5000 - 5999 RENTS, UTILITIES
+5700	CAPITAL LEASE-COMPUTER EQUIP		5000 - 5999 RENTS, UTILITIES
+5703	CAPITAL LEASE COMPUTER EQ-PRIN		5000 - 5999 RENTS, UTILITIES
+5704	CAPITAL LEASE COMPUTER EQ-INT		5000 - 5999 RENTS, UTILITIES
+6000	PRINTING OF PUBLICATIONS		6000 - 6999 PRINTING, REPRODUCTION
+6050	REPRODUCTION AND PHOTOCOPY	Use for outsourced services. Do not use for supplies, equipment. See 8015 -- Typically Facilities & Administrative cost	6000 - 6999 PRINTING, REPRODUCTION
+6100	PRINTING OF FORMS/STATIONERY		6000 - 6999 PRINTING, REPRODUCTION
+6200	BOOKS & LIBRARY MATERIALS	Non-inventorial collections.	6000 - 6999 PRINTING, REPRODUCTION
+6210	REPRINTS	From academic journals/publishers. Reprint charge is taxable, article and page charges are non-taxable	6000 - 6999 PRINTING, REPRODUCTION
+6300	LIBRARY BOOK BINDING		6000 - 6999 PRINTING, REPRODUCTION
+7100	REPAIRS, ALTERATIONS & MAINT	Repairs, alterations, and maintenance. Currently used with vendor billings under Low Value and Purchase Order authorizations. FM recharges appear under 7150. Do not use with service agreements. Use 7260 for service and equipment maintenance agreements.	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7101-09	USER DEFINED - REPAIRS & MAINT	Same as 7100. May be used to categorize costs of this type.	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7125	CONSTRUCTION RELATED CONTRACTS	FM administered contracts for architectural, engineering and construction services.	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7150	BUILDING MAINTENANCE RECHARGE	Repairs, alterations, and maintenance recharged through FM interdepartmental work orders.	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7170	POLLUTION REMEDIATION COST		7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7185	MAINTENANCE-COMPUTER SOFTWARE	Use 7260 for general office equipment service, maintenance and repair	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7200	MISCELLANEOUS SERVICES	USE this code for "services for hire" vendors and -- Commissions related to events or performances -- Royalties related to events, performances or patents DO NOT USE 7200 with vendors who provide "advice". They are consultants and their services must be authorized under PO or Consulting Services Agreement negotiated by Contracts & Property--use 7235 DO NOT USE 7200 IF A SERVICE IS DEFINED ELSEWHERE IN THE TABLE. For example, -- Advertising--7230 or 7730 -- Architects, engineers, construction contractors--7125 -- Awards/Prizes (cash) to faculty or staff--PAYROLL -- Awards/Prizes (cash) to students, NOT budgeted to 78xxxx--7470 -- Awards/Prizes (cash) to students, budgeted to 78xxxx--7770 -- Awards/Gifts (non-cash) to UC or non-UC persons--7751 -- Consultants--7235 -- Employee development--7450 -- Equipment maintenance/service agreement--7260 -- Housing allowances for visiting scholars--use travel process -- Human subjects--7223 -- Incentive payments to survey participants--7223 -- Maintenance agreement--7260 -- Memberships/subscriptions--7220 or 7720 -- Participant support--7215, 7216 or 7217 -- Performance fees--7240 -- Permits, taxes, fees--7225 -- Post-doctoral fellowship grants--PAYROLL (7471 if non-payroll) -- Printing services--see 6xxx -- Prizes (cash or non-cash): contestant selected by chance--7751 -- Removal expenses--2700 & 2701 Continued on next page	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7200	MISCELLANEOUS SERVICES	-- Service of equipment--7260 or 7201-9 -- Sports officials fees--7222 -- Stipends--must conform to one of the following: o 7770--SCHOLARSHIP/FELLOWSHIP/STIPEND (78xxxx) o 7471--MISCELLANEOUS STIPENDS (non-78xxxx) o 7900--HONORARIA to scholars for academic activity o 7215--PARTICIPANT SUPPORT-GENERAL o 7216--PARTICIPANT SUPPORT-UNDERGRAD o 7217--PARTICIPANT SUPPORT-FACILITATORS (mentors) o 7200--MISCELLANEOUS SERVICES as covered by appropriate contract for independent personal services or consultation -- Subcontracts (KK's--7300 and/or 7305 -- Survey incentives--7223 Temporary services--7224	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7201-09	USER DEFINED - SERVICES	Same as 7200. May be used to categorize costs of this type.	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7211	INTRADEPARTMENT TRANSFER	ACCOUNTING USE ONLY	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7212	CARRY FORWARD	ACCOUNTING USE ONLY	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7215	PARTICIPANT SUPPORT-GENERAL	Payments to or on behalf of participants/trainees in connection with a (charges excluded from overhead) sponsored project for items such as stipends (subsistence allowances), travel (NOT VALID WITH SUB 3) allowances, and registration fees in connection with meetings, conferences, symposia or training projects. If support is federally funded, participants cannot receive compensation, either directly or indirectly from other federal sources while participating in the project. Participant support costs must be separately identified in the budget and approved from the sponsoring agency. These charges are excluded from indirect cost if agency policy restricts assessment on participant costs. Guidance on the use of this code should be sought from departmental or Accounting personnel familiar with the particulars of the award in question. Amounts are tax reportable unless processed as fully substantiated reimbursements. Use 7216 for payments to undergraduates.	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7216	PARTICIPANT SUPPORT-UNDERGRAD	Non-financial aid subsistence allowance payments to undergraduates in (charges excluded from overhead) connection with a sponsored project for the purpose of participating in a (NOT VALID WITH SUB 3) research experience program. Use 7770 only if budgeted to account 78xxxx. Budgetary disclosure requirements in 7215 apply. Amounts are not tax reportable, but may be taxable to the recipient.	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7217	PARTICIPANT SUPPORT-FACILITATORS	Program support payments to voluntary participants, such as teachers, (charges excluded from overhead) providing peer group facilitation under sponsored projects. Budgetary (NOT VALID WITH SUB 3) disclosure requirements in 7215 apply. Amounts are tax reportable.	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7220	MEMBERSHIPS/SUBS; FED ALLOW	Cost of the institution's membership in business, technical, and professional organizations and cost of subscriptions to periodicals issued by these organizations. Must use 7720 for civic, community, social memberships. Typically Facilities & Administrative cost	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7222	SPORT'S OFFICIALS FEES		7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7223	PAYMENTS TO HUMAN SUBJECTS	Includes the cost of incentives to survey participants. Must be disclosed in the research protocol--copy attached to payment request.	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7224	TEMPORARY SERVICES	Provided by an outside agency -- Typically Facilities & Administrative cost	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7225	PERMITS-TAXES-FEES	Only research related permits can be charged to contracts and grants. Use 7700 for fines and penalties, 7229 for immigration processing expenses	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7226	CREDIT CARD FEES	Used by campus merchants to clear bank fees from balance sheet account	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7227	BANK FEES		7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7229	EMPLOYMENT VISAS	Legal expenses, INS fees, and related expenses paid in connection with obtaining temporary or permanent residency status	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7230	ADVERTISING;FEDERALLY CHARGED	Media costs of advertising for (1) personnel recruitment, (2) procurement of goods or services, (3) disposal of scrap or surplus materials, or (4) purposes necessary to meet the requirements of a sponsored agreement. Must use 7730 for public relations, all other media expenses, promotional items.	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7235	CONSULTANTS	"CS" consulting service agreements negotiated by Business Services.	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7240	PERFORMANCE FEES	Speakers, performers who do not meet the honoraria criteria	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7250	FOOD-BUSINESS MEET/CONFERENCES	Food & Beverages for Business Meeting/Conferences: Food and beverage costs of University business meetings or conferences held primarily for the dissemination of technical information or of an administrative nature. NOT used for entertainment and social activity expenses. Must use 7750 for alcohol, social activities, entertainment.	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7255	CONFERENCE-CREDIT CARD CHARGES		7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7260	SERVICE OF EQUIPMENT	Service, maintenance and repair of office equipment, computers. Maintenance agreements for such.	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7265	MICROFILM/FICHE SERVICES		7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7270	DEPRECIATION	For Accounting use only	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7275	INSURANCE		7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7280	SERVICES - DEPARTMENT RECHARGE	Charges from approved campus recharge units. Used with code 3900.	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7281	SPECIAL HANDLING FEES	ACCOUNTING USE ONLY	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7295	ON-CAMPUS WORK-STUDY	User department's share of Financial Aid's cost of administration. SURCHARGE	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7299	ADMINISTRATIVE OVERHEAD	Recharges to auxiliary units - Accounting use only	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7300	3RD PARTY COSTS EXCLD FROM OH	Subcontract (KK) expenditures to contracts or grants that are above the $25,000 limitation for inclusion in the indirect cost calculation. This object code excludes these expenditures from the "Modified Direct Cost Totals" to which the indirect cost rate is applied. The $25,000 limitation applies to each subcontract. A subcontract is limited to a single third party source and a single activity. Use 7305 for the initial $25,000 of expenditure.	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7305	3RD PARTY COSTS INCLD IN OHEAD	Subcontract (KK) expenditures of $25,000 or less with single third parties outside the University. Use 7300 for cumulative expenditures in excess of $25,000.	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7310	FINGERPRINTING		7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7315	HIPPA EXPENSES-PA&REC ONLY		7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7318	GUARANTEES	Athletics	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7324	RECRUITING MEMBERSHIP	Athletics	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7327	GAME EXPENSES PARKING-POLICE	Athletics	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7350-91	USER DEFINED-SERVICES		7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7392	BUDGET SUPPORT PROGRAM		7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7393-4	USER DEFINED-SERVICES		7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7395	DEPARTMENTAL RECHARGE INCOME		7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7400	ONE MO EARN PD TO DEP DEC EMPL	One month's earnings paid to dependent of deceased employee	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7450	EMPLOYEE DEVELOPMENT	Non-IAP expenses--may be taxable to recipient	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7455	EXTENSION TUITION		7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7456	EXTENSION CONCURRENT COURSES		7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7460	SRDP DEVELOPMENT AWARD	SRDP--Staff Recognition & Development Program	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7465	SRDP DEVELOPMENT AWARD FUNDING	SRDP--Staff Recognition & Development Program	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7470	STUDENT PRIZES/AWARDS	Cash awards and prizes for past academic performance. Amounts are tax reportable. If budgeted to account 78xxxx, use 7770	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7471	MISCELLANEOUS STIPENDS	Used for non UC persons and non UCSB students receiving non-service academic support. Use 7770 (budgeted to 78xxxx) only for UCSB students Amounts are not tax reportable, but may be taxable to the recipient. Payments for dependent personal services rendered (employment) must be paid through payroll. Independent personal services require a formal contract and are tax reportable.	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7500	PAYMENT OF UCRS BENEFITS		7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7610	COMPUTING & DP SERVICES-ADMIN	Administration (includes system development, maintenance) for use by organized systems units - interdepartmental recharge only.	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7620	COMPUTING & DP SERVICES-ACAD	Academic (includes system development, maintenance) for use by organized systems units - interdepartmental recharge only.	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7700	FINES AND PENALTIES	Costs of all fines, penalties, interest, disallowances, settlements or legal Unallowable charges to federal awards judgments against the University resulting from violations of federal, state, local, or foreign laws and regulations.	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7710	DONATIONS AND CONTRIBUTIONS	Costs of donations, contributions and gifts, regardless of recipient. Examples Unallowable charges to federal awards include: purchase of flowers or gifts outside of an established employee morale program; purchase of raffle tickets or tickets to events, where the primary purpose is to benefit the selling organization; and contributions to business, technical or professional organizations beyond standard membership fees.	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7720	MEMBERSHIPS/SUBS;FED UNALLOW	Cost of membership in any civic or community organizations, country club, Unallowable charges to federal awards social or dining club or organization and the cost of any subscriptions to periodicals issued by these organizations. Also see 7220	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7730	ADVERTISING;FED UNCHARGEABLE	Advertising Including Public Relations & Promotions: Media expenses for all Unallowable charges to federal awards advertising other than expenses identified under 7230. Also include costs of all promotional items and memorabilia, e.g. brochures, t-shirts, etc. Also see 7230.	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7740	PATIENT CARE (medical/health	Payments to physicians, physicians' corporations, or other suppliers of health payments) and medical services. Includes costs incurred by academic departments and Unallowable charges to federal award, organized research units for charges or recharges made by any hospital or clinic, including University affiliated hospitals and clinics. Amounts paid to healthcare providers/entities are tax reportable.	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7750	SOCIAL ACTIVITY-ENTERTAINMENT	Social Activities & Entertainment: Costs of alcoholic beverages and social or Unallowable charges to federal awards entertainment events including amusement, diversion, and social activities and any costs directly associated with such costs such as tickets to shows or sports events, meals, lodging, rentals, transportation, and gratuities. Also see 7250	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7751	NON-CASH AWARDS-GIFTS	Costs incurred under Business and Finance Bulletins G-41 and G-42 Unallowable charges to federal awards	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7755	COMMENCEMENT & CONVOCATN	Expenses that are directly associated with commencement and convocation COSTS functions such as the costs for printing programs, receptions, etc. Unallowable charges to federal awards Costs often need entertainment processing, authorization by Purchase Orders, Catering Contracts, Personal Services Agreements, Rental Contracts, etc.	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7757	UNIVERSITY HOUSE ENTERTAINMENT		7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7760	SCHOLARSHIP ALLOWANCE CREDIT		7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7770	STIPEND:SCHOLARSHIP/FELLOWSHIP	Stipends for Scholarships & Fellowships - Cost of subsistence allowances paid under scholarships and fellowships. Includes the cost of scholarship and fellowship payments made to the recipient to cover such costs as tuition, fees, books and living expenses. Includes prizes and awards based on academic achievement and need. Must be budgeted to account 78xcxxx. Amounts are not tax reportable, but may be taxable to the recipient. Does not include the cost of travel, workshops, conferences, honorarium and other costs associated with training and conference grants. Cannot be used for payroll payments to UCSB students. Salaries for UCSB students must be paid through payroll.	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7771	SEE 7471	DO NOT USE 7771	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7780	COST LEGAL PROCEEDINGS	Attorney's fees, cost of defense and prosecution of legal proceedings, claims, Unallowable charges to federal awards appeals, labor mediation, patent infringements and resulting settlements including gross proceeds paid to attorneys. Amounts paid to attorneys/legal corporations are tax reportable.	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7800	NONOPERATING EXPENSE	ACCOUNTING USE ONLY	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7888	CARRY FORWARD OF FUNDS	ACCOUNTING USE ONLY	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7900	HONORARIA-NON UC EMPLOYEE	Payments granted in recognition of a special services or distinguished achievements for which custom or propriety forbids any fixed business price to be set. Generally, honoraria are paid to persons of scholarly or professional standing in conjunction with an academic activity.	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7920	TRAVEL-NON UC: USE 2000	Use 2000 for all travel, 2100 for conference and registration fees.	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7925	RESTORATION PLAN 415M		7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7930	GENERAL LIABILITY INSURANCE	Used for System-wide mandated self-insurance charges. This expense is not allowed on contracts or grants.	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7935	Automobile Insurance	Normally used for campus fleet. Only charge to grant if specifically allowed.	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7940	EMPLOYMENT PRACTICE LIABILITY	Used for System-wide mandated self-insurance charges	7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7950	MEDICAL MALPRACTICE LIABILITY		7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+7970	GSHIP-SELF INSURANCE		7000 - 7999 FEES FOR SERVICES--NON-PAYROLL, OTHER COSTS
+8000	SUPPLIES & MATERIALS - OTHER	DO NOT USE THIS CODE FOR THE FOLLOWING SUPPLIES & MATERIALS: -- Printed materials -- see 6xxx -- All categories below: 8010 through 8140 and 9xxx.	8000 - 8199 SUPPLIES, MATERIALS
+8001-09	USER DEFINED - SUPPLIES	Same as 8000. May be used to categorize costs of this type.	8000 - 8199 SUPPLIES, MATERIALS
+8010	MEDICAL SUPPLIES		8000 - 8199 SUPPLIES, MATERIALS
+8011	HEALTH ADVOCATE PRGM SUPPLIES		8000 - 8199 SUPPLIES, MATERIALS
+8015	REPRODUCTION/COPY SUPPLIES	In-house copier supply costs: toner, fuser, paper, etc. Use 6050 & 6100 for printing from outside sources -- Typically Facilities & Administrative cost	8000 - 8199 SUPPLIES, MATERIALS
+8020	CHEMICALS-ORGANIC & INORGANIC		8000 - 8199 SUPPLIES, MATERIALS
+8030	LAB GLASS/CERAMICS		8000 - 8199 SUPPLIES, MATERIALS
+8040	LAB INSTRUMENTS & SUPPLIES		8000 - 8199 SUPPLIES, MATERIALS
+8050	FERTILIZERS & PESTICIDES		8000 - 8199 SUPPLIES, MATERIALS
+8060	LAB ANIMALS/FEED		8000 - 8199 SUPPLIES, MATERIALS
+8070	GENERAL OFFICE SUPPLIES	Interdepartmental recharges from Central Stores -- Typically Facilities & Administrative cost	8000 - 8199 SUPPLIES, MATERIALS
+8075	RESEARCH OFFICE SUPPLIES	Typically Facilities & Administrative cost	8000 - 8199 SUPPLIES, MATERIALS
+8080	EDUCATIONAL TV/AV SERVICE	Interdepartmental recharges from Instructional Resources	8000 - 8199 SUPPLIES, MATERIALS
+8085	COMPUTER SOFTWARE	Software expenses (<5,000) -- see 9235	8000 - 8199 SUPPLIES, MATERIALS
+8090-95	USER DEFINED - SUPPLIES	Same as 8000. May be used to categorize costs of this type. 91, 93-	8000 - 8199 SUPPLIES, MATERIALS
+8092	ELIMINATION-OTHER-R&R	Used for financial reporting	8000 - 8199 SUPPLIES, MATERIALS
+8099	ELIMINATION OF CAPITALIZED EXP	ACCOUNTING USE ONLY	8000 - 8199 SUPPLIES, MATERIALS
+8100	NON INVENTORIAL EQUIP $200-1499		8000 - 8199 SUPPLIES, MATERIALS
+8101	USER DEFINED-MISC OFC SUPPLIES		8000 - 8199 SUPPLIES, MATERIALS
+8120	NON-INVENTL EQUIP 1,500-4,999	Equipment $5,000 and over: use 9000, 9900, etc.	8000 - 8199 SUPPLIES, MATERIALS
+8130	OFFICE FURNITURE	Non-inventorial office furniture. Use for items under $5,000 per item. 9000 is used for items $5,000 and over. If directly charged to a contract or grant, must be a separate line item of expense with documented justification.	8000 - 8199 SUPPLIES, MATERIALS
+8140	OFFICE SUPPLIES	Typically Facilities & Administrative cost	8000 - 8199 SUPPLIES, MATERIALS
+8145-98	USER DEFINED-SUPPLIES	Same as 8000. May be used to categorize costs of this type.	8000 - 8199 SUPPLIES, MATERIALS
+8200	SPECIAL REGENTS CONTR TO UCRS		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8220	PERS VERIP ANNUITY		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8231	OE-EMPLOYER UC OPEB CONTRIB		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8250	SPECIAL REGENTS' CONTR TO UCRS		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8260	FLEXIBLE BENEFIT-MANAGEMENT		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8300	SOCIAL SECURITY REGENTS CONTR		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8310	MEDICARE		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8400	STATE TEACHERS' RETIREMENT SYS		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8450	ORANGE COUNTY RETIREMENT SYS		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8460	FED CIVIL SERV RETIREMENT SYS		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8500	WORKER COMPENSATION INSURANCE		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8515	LEGAL INSURANCE CONTRIBUTION		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8520	UNEMPLOYMENT INSURANCE		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8530	EMPLOYEE SUPPORT PROGRAM		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8540	CORE MEDICAL INSURANCE		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8550	EMPLOYEE VAC & S/L ASSESSMENT		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8560	CORE LIFE INSURANCE		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8570	GRAD STUDENT HEALTH INSURANCE		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8590	PARTIAL FEE REMISSION		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8600	UCRS - REGENTS CONTRIBUTION		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8610	UCRS - PHASED RETIREMENT		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8640	GRAD STUDENT PARTIAL FEE REM		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8650	FACULTY SUMMER SALARY		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8660	SENIOR MANAGEMENT SUPPLEMENT		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8700	PERS - REGENTS CONTRIBUTION		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8710	DENTAL INSURANCE - PSBP		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8720	HEALTH INSURANCE - PSBP		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8730	VISION INSURANCE - PSBP		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8740	DISABILITY INSURANCE - PSBP		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8750	LIFE INSURANCE - PSBP		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8760	BROKER FEES - PSBP		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8770	TERM BEN-BENEFITS-VOLUNTARY		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8775	TERM BEN-BENEFITS-INVOLUNTARY		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8780	COBRA STIMULUS SUBSIDY		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8800	NON-INDUSTRIAL DISABILITY CONT		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8820	SACRAMENTO CO EMPL RETIRE SYS		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8830	VISION INSURANCE CONTRIBUTION		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8840	VISION INS-ALTERNATIVE CONTRIB		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8880	ACCRUED BENEFITS-COMP ABSENC		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8892	ELIMINATION-BENEFITS		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8900	REGENTS HEALTH INS CONTR		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8910	EMPLOYEE BENEFIT COST TRANSFER		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8920	CONSTRUCTION CLASSES VRS BEN		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8930	LEAVE ACCRUAL		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8931	VACATION GROSS REDUCTION		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8932	VACATION BENEFIT REDUCTION		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8940	BENEFIT ACCRUAL		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8945	SRDP ASSESSMENT	SRDP--Staff Recognition & Development Program	8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8950	DENTAL INSURANCE		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8955	SRDP BENEFIT FUNDING	SRDP--Staff Recognition & Development Program	8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8960	FACULTY BENEFIT COST OFFSET		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8970	TUITION-FULL FEE REMISSION		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8980	SPECIAL LIFE INS CONTRIBUTION		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8990	ANUITANT HEALTH INS CONTRIB		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+8995	OE-BENEFITS ADMIN ASSESSMENT		8200 - 8999 RETIREMENT, EMPLOYEE BENEFITS
+9000	INVENTORIAL EQUIPMENT	Including office furniture but excluding computers. See 9900	9000 - 9999 EQUIPMENT, OTHER INVENTORIAL ITEMS (including freight on such items)
+9100	INVENTORIAL LIVE STOCK		9000 - 9999 EQUIPMENT, OTHER INVENTORIAL ITEMS (including freight on such items)
+9200	LIBRARY-GENERAL COLLECTIONS		9000 - 9999 EQUIPMENT, OTHER INVENTORIAL ITEMS (including freight on such items)
+9210	LIBRARY-RARE BOOKS&MATERIALS		9000 - 9999 EQUIPMENT, OTHER INVENTORIAL ITEMS (including freight on such items)
+9220	SPECIAL COLLECTIONS		9000 - 9999 EQUIPMENT, OTHER INVENTORIAL ITEMS (including freight on such items)
+9230	SOFTWARE-MORE THAN $5 MILLION	Software projects to be capitalized (5,000,000 and up)	9000 - 9999 EQUIPMENT, OTHER INVENTORIAL ITEMS (including freight on such items)
+9235	SOFTWARE-LESS THEN $5 MILLION	Software projects to be capitalized (5,000 to 5,000,000) -- see 8085	9000 - 9999 EQUIPMENT, OTHER INVENTORIAL ITEMS (including freight on such items)
+9300	TRADE-IN ALLOW/USED EQUIP	For old equipment (credit)	9000 - 9999 EQUIPMENT, OTHER INVENTORIAL ITEMS (including freight on such items)
+9400	RENTAL ALLOWANCE ON EQUIP	On inventorial equipment (credit)	9000 - 9999 EQUIPMENT, OTHER INVENTORIAL ITEMS (including freight on such items)
+9500	FULL VALUE MINUS SURPLUS COST	Used for financial reporting	9000 - 9999 EQUIPMENT, OTHER INVENTORIAL ITEMS (including freight on such items)
+9600	FABRICATION COMPONENTS OR SUPY	Labor, Services, and Other Costs in Direct Support Of In-House Fabrication of Equipment. Also see 9610.	9000 - 9999 EQUIPMENT, OTHER INVENTORIAL ITEMS (including freight on such items)
+9610	FABRICATION COST	Materials, Supplies, & Equipment Incorporated into In-House Fabrication of Equipment - If labor and material costs cannot be separated use 9600.	9000 - 9999 EQUIPMENT, OTHER INVENTORIAL ITEMS (including freight on such items)
+9700	BUILDINGS & STRUCTURES	Facilities Renovations, Alterations and Improvements (ordinarily these costs are capitalized). Costs incurred to change the interior arrangements or other physical characteristics of an existing facility or of installed equipment so that it may be more effectively used for its currently designated purpose or adapted to an alternative use to meet a programmatic requirement. Improvements or renovations may also include significant alterations or structural changes to existing facilities which increase the usefulness, enhance the efficiency, or prolong the life of the property.	9000 - 9999 EQUIPMENT, OTHER INVENTORIAL ITEMS (including freight on such items)
+9740	GENERAL IMPROVEMENTS		9000 - 9999 EQUIPMENT, OTHER INVENTORIAL ITEMS (including freight on such items)
+9750	INFRASTRUCTURE ASSETS		9000 - 9999 EQUIPMENT, OTHER INVENTORIAL ITEMS (including freight on such items)
+9760	INTANGIBLE ASSETS		9000 - 9999 EQUIPMENT, OTHER INVENTORIAL ITEMS (including freight on such items)
+9800	TRANSFERS-INVENTORIAL EQUIP	Transfers of inventorial equipment between University departments	9000 - 9999 EQUIPMENT, OTHER INVENTORIAL ITEMS (including freight on such items)
+9900	INVENTORIAL COMPUTER EQUIPMENT		9000 - 9999 EQUIPMENT, OTHER INVENTORIAL ITEMS (including freight on such items)
+9950	OFFICE FURNITURE/EQUIPMENT	Not currently used by Equipment Management. See 9000	9000 - 9999 EQUIPMENT, OTHER INVENTORIAL ITEMS (including freight on such items)
+9980	NON CAPITALIZED EXPENDITURES	Used for financial reporting	9000 - 9999 EQUIPMENT, OTHER INVENTORIAL ITEMS (including freight on such items)
+9981	ELIMINATION OF CAPITAL EQUIP	Used for financial reporting	9000 - 9999 EQUIPMENT, OTHER INVENTORIAL ITEMS (including freight on such items)
+9982	ELIMINATION-CAPITAL EXPENSES	Used for financial reporting	9000 - 9999 EQUIPMENT, OTHER INVENTORIAL ITEMS (including freight on such items)
